@@ -1,7 +1,5 @@
 # QRCodeInASPNetCore
 
-# QRCodeInASPNetCore
-
 This project is a QR Code generator built with ASP.NET Core MVC. It allows users to generate QR codes for various inputs.
 
 ## Features
